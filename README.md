@@ -1,5 +1,5 @@
 # Microprocessors_Microcontrollers_and_Embedded-Systems
-ardware Tools and Components
+Hardware Tools and Components
 - Arduino Uno R3
 - USB Cable
 - Ultrasonic Sonar Sensor HC-SR04
