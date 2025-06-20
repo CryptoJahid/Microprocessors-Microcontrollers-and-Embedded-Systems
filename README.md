@@ -1,2 +1,17 @@
-# Microprocessors-Microcontrollers-and-Embedded-Systems
-This project, "Automated Radar Surveillance System Using Arduino," offers a cost-effective and efficient alternative by utilizing an Arduino Uno R3, a Micro SG90 (180-degree) servo motor, and an ultrasonic sensor for real-time object detection and distance measurement.
+# Microprocessors_Microcontrollers_and_Embedded-Systems
+ardware Tools and Components
+- Arduino Uno R3
+- USB Cable
+- Ultrasonic Sonar Sensor HC-SR04
+- Servo Motor Micro SG90 180 Degree Rotation
+- Breadboard
+- Jumper Wires
+- Double Sided Tape
+  
+Software Tools and Components
+- Arduino IDE 2.3.4
+- Processing 4
+  
+Programming Languages
+- C++
+- Java
